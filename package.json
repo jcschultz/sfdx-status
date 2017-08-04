@@ -1,0 +1,11 @@
+{
+  "name": "sfdx-status",
+  "version": "1.0.0",
+  "description": "Repeatedly retrieves status to show changed files and prevent access token expiration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Schultz <john@johnschultz.rocks> (http://johnschultz.rocks)",
+  "license": "ISC"
+}
